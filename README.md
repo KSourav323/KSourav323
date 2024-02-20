@@ -1,3 +1,10 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 # 💫 About Me:
 🔭 I’m currently working on deep learning models<br>🤝 I’m looking for help with Faster RCNN<br>🌱 I’m currently learning Faster RCNN with Tensorflow<br>💬 Ask me about web development
 <br>
