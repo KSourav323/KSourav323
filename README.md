@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on deep learning models<br>🤝 I’m looking for help with Faster RCNN<br>🌱 I’m currently learning Faster RCNN with Tensorflow<br>💬 Ask me about web development
+🔭 I’m currently working on Blockchain and Quantum computing<br>🤝 I’m looking for help with blockchain<br>🌱 I’m currently learning Quantum encryption and ZKP<br>💬 Ask me about web development
 <br>
 https://ksourav.vercel.app/
 
